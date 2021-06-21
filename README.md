@@ -23,4 +23,25 @@ The Domain was Mobile App Development.
     3. flutter_native_splash: ^1.2.0
     
 ## Snapshots
-1.Homepage</br>
+  1. Homepage</br>
+  <img src="SnapShots/homepage.png" width="250" height="500">
+  
+  2. All Customer Page</br>
+     Shows the customer's list.
+  <img src="SnapShots/Cust_list.png" width="250" height="500">
+  
+  3. Detail Page</br>
+  Shows detail of customer.</br>
+  <img src="SnapShots/detail_page.png" width="250" height="500">
+  
+  4. Select Customer Page</br>
+  Selection of Receiver</br>
+  <img src="SnapShots/select_rec_list.png" width="250" height="500">
+  
+  5. Payment Page</br>
+  Entering transferring amount</br>
+  <img src="SnapShots/transfer_amount.png" width="250" height="500">
+  
+  6. Transaction Page</br>
+  Shows the all the previos transactions.</br>
+  <img src="SnapShots/transaction_Hist.png" width="250" height="500">
